@@ -7,7 +7,6 @@ const Layout: FC = ({ children }) => {
   return (
     <>
       <GlobalStyles />
-      <Header/>
       <Container>{children}</Container>
     </>
   );
