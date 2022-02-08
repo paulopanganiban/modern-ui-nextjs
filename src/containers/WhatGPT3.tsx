@@ -1,5 +1,5 @@
 const WhatGPT3 = () => {
-  return <div></div>;
+  return <div>gpt3</div>;
 };
 
 export default WhatGPT3;
